@@ -57,5 +57,8 @@ contract DappToken {
         Transfer(_from, _to, _value);
 
         return true;
-    }
+    }return the system been blocked
+    system emphysis
+    true conect 
+     }
 }
